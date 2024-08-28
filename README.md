@@ -1,2 +1,3 @@
 # NF_GPT-Test
-Testing and playing around with the nextflow nf_gpt plugin
+
+Very basic playground for nextflow file to string parsing and NF_GPT plugin testing
